@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dialog_width">282dp</dimen>
+    <dimen name="dialog_main_title_size">16dp</dimen>
+    <dimen name="dialog_seconde_title_size">11dp</dimen>
+    <dimen name="dialog_content_size">14dp</dimen>
+    <dimen name="dialog_btn_size">13dp</dimen>
+
+</resources>
